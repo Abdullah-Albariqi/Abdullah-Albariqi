@@ -152,7 +152,7 @@ Paste a TikTok, Instagram or YouTube link, or a photo or typed text, and Saaj tu
 
 ## Beyond code
 
-I founded and run a self-funded e-commerce brand selling digital products. It has reached **SAR 34.8K in net sales and 594 orders, at 2.1× ROAS on TikTok ads**. The best script-led campaign hit 3.1×.
+I founded and run a self-funded e-commerce brand selling digital products. It has reached **SAR 34.8K in net sales and +600 orders, at 2.1× ROAS on TikTok ads**. The best script-led campaign hit 3.1×.
 
 ---
 
