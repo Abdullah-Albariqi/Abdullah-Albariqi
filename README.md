@@ -1,6 +1,6 @@
 <!-- Profile README for github.com/Abdullah-Albariqi — generated from templates/profile.md by tools/build.mjs -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3200&pause=800&color=2F81F7&center=true&vCenter=true&width=830&lines=Hi%2C+I'm+Abdullah+Albariqi+%F0%9F%91%8B;Computer+Science+Student+%40+Umm+Al-Qura+University;Growth+Marketer+%26+AI+Builder;Aspiring+Growth+Marketer+%E2%80%94+Marketing+%C3%97+AI" alt="Hi, I'm Abdullah Albariqi · Computer Science Student @ Umm Al-Qura University · Growth Marketer & AI Builder · Aspiring Growth Marketer — Marketing × AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3200&pause=800&color=2F81F7&center=true&vCenter=true&width=830&lines=Hi%2C+I'm+Abdullah+Albariqi+%F0%9F%91%8B;Computer+Science+Student+%40+Umm+Al-Qura+University;Growth+Marketer+%26+AI+Engineer;Aspiring+Growth+Marketer+%E2%80%94+Marketing+%C3%97+AI" alt="Hi, I'm Abdullah Albariqi · Computer Science Student @ Umm Al-Qura University · Growth Marketer & AI Engineer · Aspiring Growth Marketer — Marketing × AI" />
 </p>
 
 <p align="center" dir="rtl">أبني منتجات بمساعدة الذكاء الاصطناعي، وأنمّيها بصناعة المحتوى وكتابة الإعلانات والحملات المدفوعة.</p>
