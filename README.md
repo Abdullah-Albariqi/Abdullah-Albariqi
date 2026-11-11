@@ -191,7 +191,7 @@ Coming soon.
 ### 🌐 Languages
 
 - **Arabic:** native
-- **English:** professional
+- **English:** professional working proficiency
 
 ---
 
